@@ -1,0 +1,1 @@
+Print ("My name is Abdullah Al Mufty and student id is 202312391") #1st assignment
